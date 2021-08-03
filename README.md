@@ -1,0 +1,1 @@
+This repo holds exercises for the Spark module during Codeup.
